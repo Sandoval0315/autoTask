@@ -2,12 +2,12 @@
   "dependencies": {
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
-    "mongoose": "^8.15.2"
+    "mongoose": "^8.15.2",
+    "swagger-ui-express": "^5.0.1"
   },
   "name": "autoevaluacion",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
